@@ -1,0 +1,8 @@
+2023-09-10 19:32:29,802.v2_emit_message.INFO ==================================================
+2023-09-10 19:32:29,803.v2_emit_message.INFO Today is 2023-09-10 at 07:32 PM
+2023-09-10 19:32:29,804.v2_emit_message.INFO Running on: nt Windows 10
+2023-09-10 19:32:29,804.v2_emit_message.INFO Python version:  3.11.2
+2023-09-10 19:32:29,804.v2_emit_message.INFO Python path: C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.752.0_x64__qbz5n2kfra8p0
+2023-09-10 19:32:29,805.v2_emit_message.INFO Working dir: C:\Users\Jcp45\streaming-03-rabbitmq
+2023-09-10 19:32:29,805.v2_emit_message.INFO ==================================================
+2023-09-10 19:32:29,828.v2_emit_message.INFO  [x] Sent Hello World!

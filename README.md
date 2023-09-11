@@ -102,20 +102,21 @@ We can execute additional commands in the terminal as soon as it finishes.
 
 You'll need to fix an error in the program to get it to run.
 Once it runs successfully, will it terminate on its own? How do you know? 
+it ran successfully aft er the error of loooocalhost was changed.
 As long as the process is running, we cannot use this terminal for other commands. 
 
 ## Task 8. Open a New Terminal / Emit More Messages
 
 1. Open a new terminal window.
 1. Use this new window to run emit_message.py again.
-1. Watch the listing terminal - what do you see?  A second message?
+1. Watch the listing terminal - what do you see?  A second message? a first message was sent but no second one
 
 Sending the same message each time is kind of boring. This time:
 
-1. Where is the message defined? How can you change it?
+1. Where is the message defined? How can you change it? the message is defined in the v1 emit message
 1. Modify emit_message.py to emit a different message. 
 1. Execute the updated emit_message.py. 
-1. Watch what happens in the listening terminal.
+1. Watch what happens in the listening terminal. it received the first one but ended up waiting for messages and crashed.
 
 Repeat this process several times - emit at least 4 different messages.
 Don't worry - it's just code. We can always revert back (try the 'undo' command in VS Code) to a version that works. You can't hurt anything.

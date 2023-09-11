@@ -1,0 +1,9 @@
+2023-09-10 19:32:38,975.v2_listen_for_messages.INFO ==================================================
+2023-09-10 19:32:38,976.v2_listen_for_messages.INFO Today is 2023-09-10 at 07:32 PM
+2023-09-10 19:32:38,977.v2_listen_for_messages.INFO Running on: nt Windows 10
+2023-09-10 19:32:38,977.v2_listen_for_messages.INFO Python version:  3.11.2
+2023-09-10 19:32:38,977.v2_listen_for_messages.INFO Python path: C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.752.0_x64__qbz5n2kfra8p0
+2023-09-10 19:32:38,977.v2_listen_for_messages.INFO Working dir: C:\Users\Jcp45\streaming-03-rabbitmq
+2023-09-10 19:32:38,978.v2_listen_for_messages.INFO ==================================================
+2023-09-10 19:32:38,999.v2_listen_for_messages.INFO  [*] Waiting for messages. To exit press CTRL+C
+2023-09-10 19:32:38,999.v2_listen_for_messages.INFO Received: Hello World!
